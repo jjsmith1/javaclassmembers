@@ -1,4 +1,4 @@
-# Class Members Lucy
+# Class Members Lucyhu
 
 ## Instructor
 
