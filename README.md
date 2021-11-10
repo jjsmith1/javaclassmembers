@@ -1,4 +1,4 @@
-# Class Members Lucyhu
+# Class Members 
 
 ## Instructor
 
@@ -8,3 +8,4 @@ The instructor's name is Scott Dossey
 
 * Test student 1
 * Jarricka Smith
+* Lucy Hu
